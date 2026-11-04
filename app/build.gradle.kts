@@ -39,7 +39,7 @@ dependencies {
     implementation("androidx.compose.material3:material3")
     
     // NEW: APK Signer and BouncyCastle Security
-    implementation("com.android.tools.build:apksig:8.4.0")
+    implementation("com.android.tools.build:apksig:8.4.1")
     implementation("org.bouncycastle:bcprov-jdk18on:1.78.1")
     implementation("org.bouncycastle:bcpkix-jdk18on:1.78.1")
 }
